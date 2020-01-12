@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.two-box {
+  display: flex;
+  height: 50vh;
+}
+.left {
+  background-color: rgb(172, 180, 99);
+  flex: 1;
+}
+.right {
+  background-color: rgb(102, 180, 99);
+  flex: 1;
+}
+.footer {
+  display: flex;
+  height: 50vh;
+}
+.bottom {
+  background-color: rgb(99, 144, 180);
+  flex: 1;
+}
