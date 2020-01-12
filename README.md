@@ -28,7 +28,7 @@ This simple example demonstrates the file structure used in both the systems to 
 
 - To see the output of the file based on **Flexbox** [Click here](https://enunmuz.github.io/Grid-FlexboxComparison/flex.html)
 
-*Please note that both the outputs are visually identical, please look in [flex.css](./styles/flex.css) and [grid.css](./styles/grid.css) files.*
+_Please note that both the outputs are visually identical, please look in [flex.css](./styles/flex.css) and [grid.css](./styles/grid.css) files to check for differences._
 
 In Flexbox display systems we can see the extra `<div>`'s used to achieve the same output. However, in Grid display systems usage of `<divs>`'s is decreased which means:
 
@@ -41,4 +41,3 @@ In Flexbox display systems we can see the extra `<div>`'s used to achieve the sa
 Flexbox is best when used for one dimensional elements ( either for rows or columns ) whereas Grid system is best when used for two dimensional elements at once ( for both rows and columns ) but when both these systems are used together they fill the purpose easily.
 
 > To see a demonstration of what a flexbox alone can do visit my other repo [here](https://github.com/enunmuz/git_page_clone) where you can see the source code of the static webpage as well as the demo of the page which is based only on Flexbox.
-
