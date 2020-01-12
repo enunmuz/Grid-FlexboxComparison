@@ -4,8 +4,6 @@
 
 Both the systems displays the same output but one file is completely based on Grid and the other is based on Flexbox.
 
----
-
 This simple example demonstrates the file structure used in both the systems to achieve a completely same result. However, Both the Display systems should not be considered to be a replacement of the other, instead this example shows the purpose that is serverd by these systems.
 
 **In Grid System follwing display attribute is used:**
