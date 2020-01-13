@@ -1,5 +1,8 @@
 # gridFlexboxComparison
 
+>**This repo is made to demonstrate the structural difference not shown in the video made by Dev Ed [Here](https://youtu.be/EFafSYg-PkI?t=149)**
+
+
 **This repository contains HTML/CSS files to demonstrate a direct comparison between Grid and Flexbox layout used in CSS**
 
 Both the layouts display the same output but one file is completely based on Grid and the other is based on Flexbox.
